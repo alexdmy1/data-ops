@@ -11,9 +11,9 @@ env/
 .ipynb_checkpoints/
 
 # Fichiers python à exclure
-main/clean_data.py
-main/pipelines.py
 
 # Python cache
 __pycache__/
 *.py[cod]
+*.ipynb
+.pytest_cache/
