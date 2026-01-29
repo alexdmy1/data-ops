@@ -1,0 +1,19 @@
+# venv
+.venv/
+venv/
+env/
+.venv/
+
+# PDFs
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers python à exclure
+main/clean_data.py
+main/pipelines.py
+
+# Python cache
+__pycache__/
+*.py[cod]

@@ -1,0 +1,6 @@
+customer_id,full_name,email,signup_date,country,age,last_purchase_amount,loyalty_tier
+3001,Jean Morel,jean.morel@example.com,2025-01-10,FR,42,120.5,GOLD
+3002,Alice Petit,alice.petit@example.com,2025-01-12,FR,35,80.0,SILVER
+3004,Lucie Bernard,lucie.bernard@example.com,2025-02-01,FR,17,25.0,BRONZE
+3008,Sarah Klein,sarah.klein@example.com,2025-03-05,DE,28,0.0,SILVER
+3009,Anna Rossi,anna.rossi@example.com,2025-03-10,IT,34,70.0,GOLD
